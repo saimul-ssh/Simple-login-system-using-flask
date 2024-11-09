@@ -1,0 +1,44 @@
+:root {
+    --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    --msger-bg: #fff;
+    --border: 2px solid #ddd;
+    --left-msg-bg: #ececec;
+    --right-msg-bg: #579ffb;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+  
+  body {
+    justify-content: center;
+    align-items: center;
+    background-image: var(--body-bg);
+    font-family: Helvetica, sans-serif;
+  }
+  /*Dashboard - CSS*/
+  
+  .dashboard-name-area{
+    margin-top: 50px;
+    padding: 50px;
+  }
+  .welcome-msg > h2 {
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 15px;
+  }
+
+  .welcome-msg >p{
+    font-size: 15px;
+  }
+
+
+  
