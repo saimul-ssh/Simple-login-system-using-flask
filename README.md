@@ -1,8 +1,4 @@
-Sure! Here's a clean and professional `README.md` for your **Simple Login System using Flask** full-stack GitHub repository:
 
----
-
-```markdown
 # 🔐 Simple Login System using Flask
 
 A full-stack simple login and registration system built using **Flask** (Python) on the backend and **HTML/CSS/JavaScript** on the frontend. It handles user sign-up, login, session management, and basic form validation.
@@ -80,17 +76,10 @@ http://localhost:5000
 
 This is a simple project for learning purposes. For production-grade authentication systems, use packages like **Flask-Login**, **Flask-WTF**, and consider using a more secure DB like PostgreSQL or MySQL.
 
-## 📸 Screenshots
-
-*(You can add screenshots here for login/register pages)*
-
 ## 🙌 Contributing
 
 Feel free to fork this repo and submit pull requests. For major changes, open an issue first to discuss what you’d like to change.
 
-## 📄 License
-
-MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ---
